@@ -1,2 +1,6 @@
-## i would not refer to this participant 
-conflicting code
+
+# References
+
+* octocat 1 😈# References
+
+* octocat 1 😈
